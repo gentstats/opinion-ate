@@ -1,6 +1,6 @@
-# opinion-ate
+# [opinion-ate](https://outsidein.dev/react)
 
-+An app for tracking reviews of dishes at different restaurants.
+An app for tracking reviews of dishes at different restaurants.
 
 Production: <https://peam-bar.netlify.app>
 
